@@ -18,3 +18,6 @@ Find this on the Hippo Digital Medium blog:
 From terminal: `dotnet test` (at project root)
 
 Or using the test controls in your IDE
+
+If you need to install pwsh, use this command:
+dotnet tool install --global PowerShell
